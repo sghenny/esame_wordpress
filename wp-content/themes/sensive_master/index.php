@@ -47,7 +47,7 @@
                         </ul>
                       </div>
                       <div class="details mt-20">
-                        <a href="blog-single.html">
+                        <a href="<?php the_permalink(); ?>">
                         <?php
                             // Parametrizzo il titolo dell'articolo, non è più statico'
                             the_title('<h3>','</h3>');
