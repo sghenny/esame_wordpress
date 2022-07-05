@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-    <div class="blog_area section-padding">
+    <div class="blog_area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mb-5 mb-lg-0">

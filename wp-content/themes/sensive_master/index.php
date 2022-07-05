@@ -69,11 +69,11 @@
             the_posts_pagination(array(
                 'prev_text' => sprintf(
                     '<span class="newer-posts">%s</span>',
-                    __('Avanti', 'sensive_master-theme')
+                    __('Previous', 'sensive_master-theme')
                 ),
                 'next_text' => sprintf(
                     '<span class="older-posts">%s</span>',
-                    __('Indietro', 'sensive_master-theme')
+                    __('Next', 'sensive_master-theme')
                 )
             ));
           ?>

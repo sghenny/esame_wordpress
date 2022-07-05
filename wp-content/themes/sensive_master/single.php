@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <section class="blog-post-area">
     <div class="container" style="padding-left:0;padding-right:0">
-      <div class="row" style="margin-left: -80px">
+      <div class="row">
         <div class="align-items-center">
 
 
